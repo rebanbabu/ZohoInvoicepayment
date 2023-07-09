@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+tH0v4aV4azBUNAjPZBTl9YgaFlgusXMfkRgxJovieRSnnF44ABWOlOOTNMgD1VtejxmtlCHFmEAPKujnI87lQ==",
+  "success": true,
+  "projectFilePath": "/Users/rapanbabuthangaprakash/Projects/Zoho/Zoho/Zoho.csproj",
+  "expectedPackageFiles": [
+    "/Users/rapanbabuthangaprakash/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
